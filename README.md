@@ -8,6 +8,8 @@ Pull song data using Spotify's python API and use machine learning to build a ge
 - Extract track features
 - Export .csv file
 
+ ([Explanation of audio features](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/))
+
 **Spotipy-analysis.ipynb**
 - EDA
 - Modeling
