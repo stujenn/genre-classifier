@@ -12,5 +12,5 @@ Pull song data using Spotify's python API and use machine learning to build a ge
 
 **Spotipy-analysis.ipynb**
 - EDA
-- Machine Learning Modeling
+- Machine learning models
 - Validation
